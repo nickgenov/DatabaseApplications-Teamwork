@@ -13,7 +13,7 @@ namespace Supermarket.Data
         public SupermarketContext()
             : base("SupermarketModel")
         {
-            Database.SetInitializer(new MigrateDatabaseToLatestVersion<SupermarketContext, Configuration>());
+            //Database.SetInitializer(new MigrateDatabaseToLatestVersion<SupermarketContext, Configuration>());
         }
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
@@ -21,11 +21,15 @@ namespace Supermarket.Data
             modelBuilder.Conventions.Remove<OneToManyCascadeDeleteConvention>();
         }
 
-        public virtual DbSet<Category> Categories { get; set; }
-        public virtual DbSet<Customer> Customers { get; set; }
-        public virtual DbSet<Measure> Measures { get; set; }
-        public virtual DbSet<Order> Orders { get; set; }
-        public virtual DbSet<Product> Products { get; set; }
-        public virtual DbSet<Supplier> Suppliers { get; set; }
+        public IDbSet<Category> Categories { get; set; }
+        public IDbSet<Customer> Customers { get; set; }
+        public IDbSet<Measure> Measures { get; set; }
+        public IDbSet<Order> Orders { get; set; }
+        public IDbSet<Product> Products { get; set; }
+        public IDbSet<Supplier> Suppliers { get; set; }
+        public new IDbSet<T> Set<T>() where T : class
+        {
+            return base.Set<T>();
+        }
     }
 }
