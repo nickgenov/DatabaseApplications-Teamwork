@@ -1,0 +1,5 @@
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Teamwork\Supermarket.Models\bin\Debug\Supermarket.Models.dll
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Teamwork\Supermarket.Models\bin\Debug\Supermarket.Models.pdb
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Teamwork\Supermarket.Models\obj\Debug\Supermarket.Models.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Teamwork\Supermarket.Models\obj\Debug\Supermarket.Models.dll
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Teamwork\Supermarket.Models\obj\Debug\Supermarket.Models.pdb

@@ -1,0 +1,16 @@
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Teamwork\Supermarket.Client\bin\Debug\Supermarket.Client.exe.config
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Teamwork\Supermarket.Client\bin\Debug\Supermarket.Client.exe
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Teamwork\Supermarket.Client\bin\Debug\Supermarket.Client.pdb
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Teamwork\Supermarket.Client\bin\Debug\EntityFramework.dll
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Teamwork\Supermarket.Client\bin\Debug\EntityFramework.Extended.dll
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Teamwork\Supermarket.Client\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Teamwork\Supermarket.Client\bin\Debug\Supermarket.Data.dll
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Teamwork\Supermarket.Client\bin\Debug\Supermarket.Models.dll
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Teamwork\Supermarket.Client\bin\Debug\Supermarket.Data.pdb
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Teamwork\Supermarket.Client\bin\Debug\Supermarket.Models.pdb
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Teamwork\Supermarket.Client\bin\Debug\EntityFramework.xml
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Teamwork\Supermarket.Client\bin\Debug\EntityFramework.Extended.xml
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Teamwork\Supermarket.Client\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Teamwork\Supermarket.Client\obj\Debug\Supermarket.Client.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Teamwork\Supermarket.Client\obj\Debug\Supermarket.Client.exe
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Teamwork\Supermarket.Client\obj\Debug\Supermarket.Client.pdb

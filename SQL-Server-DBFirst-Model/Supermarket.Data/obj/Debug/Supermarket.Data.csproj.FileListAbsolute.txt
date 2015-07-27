@@ -1,0 +1,12 @@
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Teamwork\Supermarket.Data\bin\Debug\Supermarket.Data.dll.config
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Teamwork\Supermarket.Data\bin\Debug\Supermarket.Data.dll
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Teamwork\Supermarket.Data\bin\Debug\Supermarket.Data.pdb
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Teamwork\Supermarket.Data\bin\Debug\EntityFramework.dll
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Teamwork\Supermarket.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Teamwork\Supermarket.Data\bin\Debug\Supermarket.Models.dll
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Teamwork\Supermarket.Data\bin\Debug\Supermarket.Models.pdb
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Teamwork\Supermarket.Data\bin\Debug\EntityFramework.xml
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Teamwork\Supermarket.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Teamwork\Supermarket.Data\obj\Debug\Supermarket.Data.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Teamwork\Supermarket.Data\obj\Debug\Supermarket.Data.dll
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Teamwork\Supermarket.Data\obj\Debug\Supermarket.Data.pdb
