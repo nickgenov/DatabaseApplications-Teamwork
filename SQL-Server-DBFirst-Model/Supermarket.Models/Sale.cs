@@ -11,7 +11,7 @@ namespace Supermarket.Models
         public int ProductId { get; set; }
         public string ProductName { get; set; }
         public string VendorName { get; set; }
-        public double Quantity { get; set; }
-        public double TotalIncomes { get; set; }
+        public decimal Quantity { get; set; }
+        public decimal Incomes { get; set; }
     }
 }

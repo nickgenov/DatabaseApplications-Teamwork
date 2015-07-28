@@ -5,7 +5,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Xml;
-//using MongoDB.Bson.IO;
 using Supermarket.Data;
 using Supermarket.Models;
 using Newtonsoft.Json;
@@ -14,29 +13,29 @@ namespace Supermarket.Client
 {
     class JSONReports
     {
-        private const string DatabaseHost = "mongodb://127.0.0.1";
-        private const string DatabaseName = "Supermarket";
-        private const string OutputDir = "../../Json-Reports/";
+       private const string OutputDir = "../../Json-Reports/";
 
+        //get requested sales by period
         public static IEnumerable<Sale> GetSalesByPeriod(DateTime startDate, DateTime endDate)
         {
             using (var context = new SupermarketContext())
             {
                 var salesByPeriod = context.Orders
-                    .Where(o => o.Date >= startDate && o.Date <= endDate)
-                    .GroupBy(o => new
+                    .Where(order => order.Date >= startDate && order.Date <= endDate)
+                    .GroupBy(order => new
                     {
-                        o.ProductId,
-                        ProductName = o.Product.Name,
-                        VendorName = o.Product.Supplier.Name
+                        order.ProductId,
+                        ProductName = order.Product.Name,
+                        VendorName = order.Product.Supplier.Name,
+                        order.Quantity
                     })
-                    .Select(p => new Sale
+                    .Select(sale => new Sale
                     {
-                        ProductId = p.Key.ProductId,
-                        ProductName = p.Key.ProductName,
-                        VendorName = p.Key.VendorName,
-                        Quantity = (double)p.Sum(g => g.Quantity),
-                        TotalIncomes = (double)p.Sum(g => g.Quantity * g.Product.Price)
+                        ProductId = sale.Key.ProductId,
+                        ProductName = sale.Key.ProductName,
+                        VendorName = sale.Key.VendorName,
+                        Quantity = sale.Key.Quantity,
+                        Incomes = sale.Sum(prod => prod.Quantity * prod.Product.Price)
                     })
                     .ToList();
 
@@ -44,6 +43,7 @@ namespace Supermarket.Client
             }
         }
 
+        //export data in JSON format
         public static void ExportSalesToJson(DateTime startDate, DateTime endDate)
         {
             Directory.CreateDirectory(OutputDir);
@@ -54,6 +54,7 @@ namespace Supermarket.Client
                 var path = OutputDir + sale.ProductId + ".json";
                 File.WriteAllText(path, json);
             }
+            Console.WriteLine("Data have been exported to JSON.");
         }
 
 

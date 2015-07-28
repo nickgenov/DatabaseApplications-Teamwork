@@ -69,6 +69,7 @@
   <ItemGroup>
     <Compile Include="Client.cs" />
     <Compile Include="JSONReports.cs" />
+    <Compile Include="MongoDBImport.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
