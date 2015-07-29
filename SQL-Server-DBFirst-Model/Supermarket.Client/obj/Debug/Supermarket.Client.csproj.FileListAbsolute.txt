@@ -39,3 +39,28 @@ C:\Users\Daniela\Documents\PROGRAMMING\Level Back-end\Database Applications\Data
 C:\Users\Daniela\Documents\PROGRAMMING\Level Back-end\Database Applications\Database-Apps-Teamwork-Project (1)\SQL-Server-DBFirst-Model\Supermarket.Client\bin\Debug\MongoDB.Driver.Legacy.xml
 C:\Users\Daniela\Documents\PROGRAMMING\Level Back-end\Database Applications\Database-Apps-Teamwork-Project (1)\SQL-Server-DBFirst-Model\Supermarket.Client\bin\Debug\Newtonsoft.Json.dll
 C:\Users\Daniela\Documents\PROGRAMMING\Level Back-end\Database Applications\Database-Apps-Teamwork-Project (1)\SQL-Server-DBFirst-Model\Supermarket.Client\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Nick\Desktop\DB Apps\Database-Apps-Teamwork-Project\GitRep\DatabaseApplications-Teamwork\SQL-Server-DBFirst-Model\Supermarket.Client\bin\Debug\Supermarket.Client.exe.config
+C:\Users\Nick\Desktop\DB Apps\Database-Apps-Teamwork-Project\GitRep\DatabaseApplications-Teamwork\SQL-Server-DBFirst-Model\Supermarket.Client\obj\Debug\Supermarket.Client.exe
+C:\Users\Nick\Desktop\DB Apps\Database-Apps-Teamwork-Project\GitRep\DatabaseApplications-Teamwork\SQL-Server-DBFirst-Model\Supermarket.Client\obj\Debug\Supermarket.Client.pdb
+C:\Users\Nick\Desktop\DB Apps\Database-Apps-Teamwork-Project\GitRep\DatabaseApplications-Teamwork\SQL-Server-DBFirst-Model\Supermarket.Client\bin\Debug\Supermarket.Client.exe
+C:\Users\Nick\Desktop\DB Apps\Database-Apps-Teamwork-Project\GitRep\DatabaseApplications-Teamwork\SQL-Server-DBFirst-Model\Supermarket.Client\bin\Debug\Supermarket.Client.pdb
+C:\Users\Nick\Desktop\DB Apps\Database-Apps-Teamwork-Project\GitRep\DatabaseApplications-Teamwork\SQL-Server-DBFirst-Model\Supermarket.Client\bin\Debug\EntityFramework.dll
+C:\Users\Nick\Desktop\DB Apps\Database-Apps-Teamwork-Project\GitRep\DatabaseApplications-Teamwork\SQL-Server-DBFirst-Model\Supermarket.Client\bin\Debug\EntityFramework.Extended.dll
+C:\Users\Nick\Desktop\DB Apps\Database-Apps-Teamwork-Project\GitRep\DatabaseApplications-Teamwork\SQL-Server-DBFirst-Model\Supermarket.Client\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nick\Desktop\DB Apps\Database-Apps-Teamwork-Project\GitRep\DatabaseApplications-Teamwork\SQL-Server-DBFirst-Model\Supermarket.Client\bin\Debug\MongoDB.Bson.dll
+C:\Users\Nick\Desktop\DB Apps\Database-Apps-Teamwork-Project\GitRep\DatabaseApplications-Teamwork\SQL-Server-DBFirst-Model\Supermarket.Client\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Nick\Desktop\DB Apps\Database-Apps-Teamwork-Project\GitRep\DatabaseApplications-Teamwork\SQL-Server-DBFirst-Model\Supermarket.Client\bin\Debug\MongoDB.Driver.dll
+C:\Users\Nick\Desktop\DB Apps\Database-Apps-Teamwork-Project\GitRep\DatabaseApplications-Teamwork\SQL-Server-DBFirst-Model\Supermarket.Client\bin\Debug\MongoDB.Driver.Legacy.dll
+C:\Users\Nick\Desktop\DB Apps\Database-Apps-Teamwork-Project\GitRep\DatabaseApplications-Teamwork\SQL-Server-DBFirst-Model\Supermarket.Client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Nick\Desktop\DB Apps\Database-Apps-Teamwork-Project\GitRep\DatabaseApplications-Teamwork\SQL-Server-DBFirst-Model\Supermarket.Client\bin\Debug\Supermarket.Data.dll
+C:\Users\Nick\Desktop\DB Apps\Database-Apps-Teamwork-Project\GitRep\DatabaseApplications-Teamwork\SQL-Server-DBFirst-Model\Supermarket.Client\bin\Debug\Supermarket.Models.dll
+C:\Users\Nick\Desktop\DB Apps\Database-Apps-Teamwork-Project\GitRep\DatabaseApplications-Teamwork\SQL-Server-DBFirst-Model\Supermarket.Client\bin\Debug\Supermarket.Data.pdb
+C:\Users\Nick\Desktop\DB Apps\Database-Apps-Teamwork-Project\GitRep\DatabaseApplications-Teamwork\SQL-Server-DBFirst-Model\Supermarket.Client\bin\Debug\Supermarket.Models.pdb
+C:\Users\Nick\Desktop\DB Apps\Database-Apps-Teamwork-Project\GitRep\DatabaseApplications-Teamwork\SQL-Server-DBFirst-Model\Supermarket.Client\bin\Debug\EntityFramework.xml
+C:\Users\Nick\Desktop\DB Apps\Database-Apps-Teamwork-Project\GitRep\DatabaseApplications-Teamwork\SQL-Server-DBFirst-Model\Supermarket.Client\bin\Debug\EntityFramework.Extended.xml
+C:\Users\Nick\Desktop\DB Apps\Database-Apps-Teamwork-Project\GitRep\DatabaseApplications-Teamwork\SQL-Server-DBFirst-Model\Supermarket.Client\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nick\Desktop\DB Apps\Database-Apps-Teamwork-Project\GitRep\DatabaseApplications-Teamwork\SQL-Server-DBFirst-Model\Supermarket.Client\bin\Debug\MongoDB.Bson.xml
+C:\Users\Nick\Desktop\DB Apps\Database-Apps-Teamwork-Project\GitRep\DatabaseApplications-Teamwork\SQL-Server-DBFirst-Model\Supermarket.Client\bin\Debug\MongoDB.Driver.xml
+C:\Users\Nick\Desktop\DB Apps\Database-Apps-Teamwork-Project\GitRep\DatabaseApplications-Teamwork\SQL-Server-DBFirst-Model\Supermarket.Client\bin\Debug\MongoDB.Driver.Legacy.xml
+C:\Users\Nick\Desktop\DB Apps\Database-Apps-Teamwork-Project\GitRep\DatabaseApplications-Teamwork\SQL-Server-DBFirst-Model\Supermarket.Client\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Nick\Desktop\DB Apps\Database-Apps-Teamwork-Project\GitRep\DatabaseApplications-Teamwork\SQL-Server-DBFirst-Model\Supermarket.Client\obj\Debug\Supermarket.Client.csprojResolveAssemblyReference.cache

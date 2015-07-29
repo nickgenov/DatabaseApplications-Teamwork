@@ -12,7 +12,7 @@ namespace Supermarket.Models
         public decimal Quantity { get; set; }
         [Required]
         public decimal Discount { get; set; }
-        public DateTime Date { get; set; }
+        public DateTime? Date { get; set; }
 
         [Required]
         [ForeignKey("Product")]

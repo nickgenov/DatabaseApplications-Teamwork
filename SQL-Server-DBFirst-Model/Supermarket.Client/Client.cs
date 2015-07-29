@@ -24,21 +24,16 @@ namespace Supermarket.Client
             var count = context.Categories.Count();
             Console.WriteLine(count);
 
-            //set period to get sales by it
-            DateTime startDate = new DateTime(2015, 07, 15);
-            DateTime endDate = new DateTime(2015, 07, 31);
+            ////set period to get sales by it
+            //DateTime startDate = new DateTime(2015, 07, 15);
+            //DateTime endDate = new DateTime(2015, 07, 31);
 
-            //export SQL data about sales by given period in JSON format
-            JSONReports.ExportSalesToJson(startDate, endDate);
+            ////export SQL data about sales by given period in JSON format
+            //JSONReports.ExportSalesToJson(startDate, endDate);
 
-            //import data about requested sales in MongoDB
-            MongoDBImport.MongoDbImportData(startDate, endDate);
+            ////import data about requested sales in MongoDB
+            //MongoDBImport.MongoDbImportData(startDate, endDate);
 
         }
-
-
-        
-
-        
     }
 }
