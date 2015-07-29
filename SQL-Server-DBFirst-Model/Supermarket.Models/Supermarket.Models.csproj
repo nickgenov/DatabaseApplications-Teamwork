@@ -48,6 +48,7 @@
   <ItemGroup>
     <Compile Include="Category.cs" />
     <Compile Include="Customer.cs" />
+    <Compile Include="Expense.cs" />
     <Compile Include="Measure.cs" />
     <Compile Include="Order.cs" />
     <Compile Include="Product.cs" />

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<expenses-by-month>
+  <vendor name="Bigfoot Breweries">
+    <expenses month="Jul-2013">30.00</expenses>
+    <expenses month="Aug-2013">40.00</expenses>
+  </vendor>
+  
+</expenses-by-month>

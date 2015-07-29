@@ -8,6 +8,7 @@ using System.Threading.Tasks;
 using MongoDB.Driver;
 using Supermarket.Data;
 using Supermarket.Data.Migrations;
+using Supermarket.Models;
 
 namespace Supermarket.Client
 {
@@ -23,6 +24,9 @@ namespace Supermarket.Client
 
             var count = context.Categories.Count();
             Console.WriteLine(count);
+
+            
+
 
             ////set period to get sales by it
             //DateTime startDate = new DateTime(2015, 07, 15);

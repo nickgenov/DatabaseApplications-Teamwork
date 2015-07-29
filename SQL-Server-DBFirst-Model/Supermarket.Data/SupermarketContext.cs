@@ -27,6 +27,7 @@ namespace Supermarket.Data
         public IDbSet<Order> Orders { get; set; }
         public IDbSet<Product> Products { get; set; }
         public IDbSet<Supplier> Suppliers { get; set; }
+        public IDbSet<Expense> Expenses { get; set; }
         public new IDbSet<T> Set<T>() where T : class
         {
             return base.Set<T>();
