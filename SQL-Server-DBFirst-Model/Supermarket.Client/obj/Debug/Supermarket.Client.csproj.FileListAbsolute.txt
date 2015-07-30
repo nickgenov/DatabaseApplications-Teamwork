@@ -92,3 +92,6 @@ C:\Users\mary\Documents\maria\softuni\DB applications\TeamWork Project\trunk\SQL
 C:\Users\Daniela\Documents\PROGRAMMING\Level Back-end\Database Applications\Database-Apps-Teamwork-Project (1)\DatabaseApplications-Teamwork\SQL-Server-DBFirst-Model\Supermarket.Client\bin\Debug\Supermarket.Client.exe.config
 C:\Users\Daniela\Documents\PROGRAMMING\Level Back-end\Database Applications\Database-Apps-Teamwork-Project (1)\DatabaseApplications-Teamwork\SQL-Server-DBFirst-Model\Supermarket.Client\obj\Debug\Supermarket.Client.exe
 C:\Users\Daniela\Documents\PROGRAMMING\Level Back-end\Database Applications\Database-Apps-Teamwork-Project (1)\DatabaseApplications-Teamwork\SQL-Server-DBFirst-Model\Supermarket.Client\obj\Debug\Supermarket.Client.pdb
+D:\softuni\3.DBApp\TEAM\SuperMarket\New folder\DatabaseApplications-Teamwork\SQL-Server-DBFirst-Model\Supermarket.Client\bin\Debug\Supermarket.Client.exe.config
+D:\softuni\3.DBApp\TEAM\SuperMarket\New folder\DatabaseApplications-Teamwork\SQL-Server-DBFirst-Model\Supermarket.Client\obj\Debug\Supermarket.Client.exe
+D:\softuni\3.DBApp\TEAM\SuperMarket\New folder\DatabaseApplications-Teamwork\SQL-Server-DBFirst-Model\Supermarket.Client\obj\Debug\Supermarket.Client.pdb

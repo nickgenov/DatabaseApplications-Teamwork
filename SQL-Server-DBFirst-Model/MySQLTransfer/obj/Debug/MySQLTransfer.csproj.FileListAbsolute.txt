@@ -1,2 +1,15 @@
 D:\softuni\3.DBApp\TEAM\SuperMarket\New folder\DatabaseApplications-Teamwork\SQL-Server-DBFirst-Model\MySQLTransfer\bin\Debug\MySQLTransfer.exe.config
 D:\softuni\3.DBApp\TEAM\SuperMarket\New folder\DatabaseApplications-Teamwork\SQL-Server-DBFirst-Model\MySQLTransfer\obj\Debug\MySQLTransfer.csprojResolveAssemblyReference.cache
+D:\softuni\3.DBApp\TEAM\SuperMarket\New folder\DatabaseApplications-Teamwork\SQL-Server-DBFirst-Model\MySQLTransfer\bin\Debug\MySQLTransfer.exe
+D:\softuni\3.DBApp\TEAM\SuperMarket\New folder\DatabaseApplications-Teamwork\SQL-Server-DBFirst-Model\MySQLTransfer\bin\Debug\MySQLTransfer.pdb
+D:\softuni\3.DBApp\TEAM\SuperMarket\New folder\DatabaseApplications-Teamwork\SQL-Server-DBFirst-Model\MySQLTransfer\bin\Debug\EntityFramework.dll
+D:\softuni\3.DBApp\TEAM\SuperMarket\New folder\DatabaseApplications-Teamwork\SQL-Server-DBFirst-Model\MySQLTransfer\bin\Debug\EntityFramework.SqlServer.dll
+D:\softuni\3.DBApp\TEAM\SuperMarket\New folder\DatabaseApplications-Teamwork\SQL-Server-DBFirst-Model\MySQLTransfer\bin\Debug\MySql.Data.Entity.EF6.dll
+D:\softuni\3.DBApp\TEAM\SuperMarket\New folder\DatabaseApplications-Teamwork\SQL-Server-DBFirst-Model\MySQLTransfer\bin\Debug\Supermarket.Data.dll
+D:\softuni\3.DBApp\TEAM\SuperMarket\New folder\DatabaseApplications-Teamwork\SQL-Server-DBFirst-Model\MySQLTransfer\bin\Debug\Supermarket.Models.dll
+D:\softuni\3.DBApp\TEAM\SuperMarket\New folder\DatabaseApplications-Teamwork\SQL-Server-DBFirst-Model\MySQLTransfer\bin\Debug\Supermarket.Data.pdb
+D:\softuni\3.DBApp\TEAM\SuperMarket\New folder\DatabaseApplications-Teamwork\SQL-Server-DBFirst-Model\MySQLTransfer\bin\Debug\Supermarket.Models.pdb
+D:\softuni\3.DBApp\TEAM\SuperMarket\New folder\DatabaseApplications-Teamwork\SQL-Server-DBFirst-Model\MySQLTransfer\bin\Debug\EntityFramework.xml
+D:\softuni\3.DBApp\TEAM\SuperMarket\New folder\DatabaseApplications-Teamwork\SQL-Server-DBFirst-Model\MySQLTransfer\bin\Debug\EntityFramework.SqlServer.xml
+D:\softuni\3.DBApp\TEAM\SuperMarket\New folder\DatabaseApplications-Teamwork\SQL-Server-DBFirst-Model\MySQLTransfer\obj\Debug\MySQLTransfer.exe
+D:\softuni\3.DBApp\TEAM\SuperMarket\New folder\DatabaseApplications-Teamwork\SQL-Server-DBFirst-Model\MySQLTransfer\obj\Debug\MySQLTransfer.pdb
