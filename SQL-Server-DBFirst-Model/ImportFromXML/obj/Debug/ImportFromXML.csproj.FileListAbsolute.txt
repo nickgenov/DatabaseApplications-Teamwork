@@ -12,3 +12,6 @@ C:\Users\mary\Documents\maria\softuni\DB applications\TeamWork Project\trunk\SQL
 C:\Users\mary\Documents\maria\softuni\DB applications\TeamWork Project\trunk\SQL-Server-DBFirst-Model\ImportFromXML\bin\Debug\Supermarket.Models.pdb
 C:\Users\mary\Documents\maria\softuni\DB applications\TeamWork Project\trunk\SQL-Server-DBFirst-Model\ImportFromXML\bin\Debug\EntityFramework.xml
 C:\Users\mary\Documents\maria\softuni\DB applications\TeamWork Project\trunk\SQL-Server-DBFirst-Model\ImportFromXML\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mary\Documents\maria\softuni\DB applications\TW 30.07 1653\trunk\SQL-Server-DBFirst-Model\ImportFromXML\bin\Debug\ImportFromXML.exe.config
+C:\Users\mary\Documents\maria\softuni\DB applications\TW 30.07 1653\trunk\SQL-Server-DBFirst-Model\ImportFromXML\obj\Debug\ImportFromXML.exe
+C:\Users\mary\Documents\maria\softuni\DB applications\TW 30.07 1653\trunk\SQL-Server-DBFirst-Model\ImportFromXML\obj\Debug\ImportFromXML.pdb
