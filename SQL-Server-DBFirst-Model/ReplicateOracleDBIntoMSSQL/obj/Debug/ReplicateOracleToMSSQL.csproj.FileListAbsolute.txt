@@ -1,0 +1,18 @@
+C:\Users\Nick\Desktop\DB Apps\Database-Apps-Teamwork-Project\GitRep\DatabaseApplications-Teamwork\SQL-Server-DBFirst-Model\ReplicateOracleDBIntoMSSQL\bin\Debug\ReplicateOracleDBIntoMSSQL.exe.config
+C:\Users\Nick\Desktop\DB Apps\Database-Apps-Teamwork-Project\GitRep\DatabaseApplications-Teamwork\SQL-Server-DBFirst-Model\ReplicateOracleDBIntoMSSQL\bin\Debug\ReplicateOracleDBIntoMSSQL.exe
+C:\Users\Nick\Desktop\DB Apps\Database-Apps-Teamwork-Project\GitRep\DatabaseApplications-Teamwork\SQL-Server-DBFirst-Model\ReplicateOracleDBIntoMSSQL\bin\Debug\ReplicateOracleDBIntoMSSQL.pdb
+C:\Users\Nick\Desktop\DB Apps\Database-Apps-Teamwork-Project\GitRep\DatabaseApplications-Teamwork\SQL-Server-DBFirst-Model\ReplicateOracleDBIntoMSSQL\bin\Debug\EntityFramework.dll
+C:\Users\Nick\Desktop\DB Apps\Database-Apps-Teamwork-Project\GitRep\DatabaseApplications-Teamwork\SQL-Server-DBFirst-Model\ReplicateOracleDBIntoMSSQL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nick\Desktop\DB Apps\Database-Apps-Teamwork-Project\GitRep\DatabaseApplications-Teamwork\SQL-Server-DBFirst-Model\ReplicateOracleDBIntoMSSQL\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\Nick\Desktop\DB Apps\Database-Apps-Teamwork-Project\GitRep\DatabaseApplications-Teamwork\SQL-Server-DBFirst-Model\ReplicateOracleDBIntoMSSQL\bin\Debug\Supermarket.Data.dll
+C:\Users\Nick\Desktop\DB Apps\Database-Apps-Teamwork-Project\GitRep\DatabaseApplications-Teamwork\SQL-Server-DBFirst-Model\ReplicateOracleDBIntoMSSQL\bin\Debug\Supermarket.Models.dll
+C:\Users\Nick\Desktop\DB Apps\Database-Apps-Teamwork-Project\GitRep\DatabaseApplications-Teamwork\SQL-Server-DBFirst-Model\ReplicateOracleDBIntoMSSQL\bin\Debug\Supermarket.Data.pdb
+C:\Users\Nick\Desktop\DB Apps\Database-Apps-Teamwork-Project\GitRep\DatabaseApplications-Teamwork\SQL-Server-DBFirst-Model\ReplicateOracleDBIntoMSSQL\bin\Debug\Supermarket.Models.pdb
+C:\Users\Nick\Desktop\DB Apps\Database-Apps-Teamwork-Project\GitRep\DatabaseApplications-Teamwork\SQL-Server-DBFirst-Model\ReplicateOracleDBIntoMSSQL\bin\Debug\EntityFramework.xml
+C:\Users\Nick\Desktop\DB Apps\Database-Apps-Teamwork-Project\GitRep\DatabaseApplications-Teamwork\SQL-Server-DBFirst-Model\ReplicateOracleDBIntoMSSQL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nick\Desktop\DB Apps\Database-Apps-Teamwork-Project\GitRep\DatabaseApplications-Teamwork\SQL-Server-DBFirst-Model\ReplicateOracleDBIntoMSSQL\obj\Debug\ReplicateOracleToMSSQL.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Desktop\DB Apps\Database-Apps-Teamwork-Project\GitRep\DatabaseApplications-Teamwork\SQL-Server-DBFirst-Model\ReplicateOracleDBIntoMSSQL\obj\Debug\ReplicateOracleDBIntoMSSQL.exe
+C:\Users\Nick\Desktop\DB Apps\Database-Apps-Teamwork-Project\GitRep\DatabaseApplications-Teamwork\SQL-Server-DBFirst-Model\ReplicateOracleDBIntoMSSQL\obj\Debug\ReplicateOracleDBIntoMSSQL.pdb
+C:\Users\mary\Documents\maria\softuni\DB applications\TeamWork Project\trunk\SQL-Server-DBFirst-Model\ReplicateOracleDBIntoMSSQL\bin\Debug\ReplicateOracleDBIntoMSSQL.exe.config
+C:\Users\mary\Documents\maria\softuni\DB applications\TeamWork Project\trunk\SQL-Server-DBFirst-Model\ReplicateOracleDBIntoMSSQL\obj\Debug\ReplicateOracleDBIntoMSSQL.exe
+C:\Users\mary\Documents\maria\softuni\DB applications\TeamWork Project\trunk\SQL-Server-DBFirst-Model\ReplicateOracleDBIntoMSSQL\obj\Debug\ReplicateOracleDBIntoMSSQL.pdb

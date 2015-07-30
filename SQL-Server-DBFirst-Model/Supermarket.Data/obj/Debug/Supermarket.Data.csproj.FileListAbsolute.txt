@@ -1,0 +1,60 @@
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Teamwork\Supermarket.Data\bin\Debug\Supermarket.Data.dll.config
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Teamwork\Supermarket.Data\bin\Debug\Supermarket.Data.dll
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Teamwork\Supermarket.Data\bin\Debug\Supermarket.Data.pdb
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Teamwork\Supermarket.Data\bin\Debug\EntityFramework.dll
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Teamwork\Supermarket.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Teamwork\Supermarket.Data\bin\Debug\Supermarket.Models.dll
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Teamwork\Supermarket.Data\bin\Debug\Supermarket.Models.pdb
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Teamwork\Supermarket.Data\bin\Debug\EntityFramework.xml
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Teamwork\Supermarket.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Teamwork\Supermarket.Data\obj\Debug\Supermarket.Data.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Teamwork\Supermarket.Data\obj\Debug\Supermarket.Data.dll
+C:\Users\Nick\Desktop\DB Apps\GitRep\DatabaseApplications\Teamwork\Supermarket.Data\obj\Debug\Supermarket.Data.pdb
+C:\Users\Daniela\Documents\PROGRAMMING\Level Back-end\Database Applications\Database-Apps-Teamwork-Project (1)\SQL-Server-DBFirst-Model\Supermarket.Data\bin\Debug\Supermarket.Data.dll.config
+C:\Users\Daniela\Documents\PROGRAMMING\Level Back-end\Database Applications\Database-Apps-Teamwork-Project (1)\SQL-Server-DBFirst-Model\Supermarket.Data\bin\Debug\Supermarket.Data.dll
+C:\Users\Daniela\Documents\PROGRAMMING\Level Back-end\Database Applications\Database-Apps-Teamwork-Project (1)\SQL-Server-DBFirst-Model\Supermarket.Data\bin\Debug\Supermarket.Data.pdb
+C:\Users\Daniela\Documents\PROGRAMMING\Level Back-end\Database Applications\Database-Apps-Teamwork-Project (1)\SQL-Server-DBFirst-Model\Supermarket.Data\bin\Debug\EntityFramework.dll
+C:\Users\Daniela\Documents\PROGRAMMING\Level Back-end\Database Applications\Database-Apps-Teamwork-Project (1)\SQL-Server-DBFirst-Model\Supermarket.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Daniela\Documents\PROGRAMMING\Level Back-end\Database Applications\Database-Apps-Teamwork-Project (1)\SQL-Server-DBFirst-Model\Supermarket.Data\bin\Debug\Supermarket.Models.dll
+C:\Users\Daniela\Documents\PROGRAMMING\Level Back-end\Database Applications\Database-Apps-Teamwork-Project (1)\SQL-Server-DBFirst-Model\Supermarket.Data\bin\Debug\Supermarket.Models.pdb
+C:\Users\Daniela\Documents\PROGRAMMING\Level Back-end\Database Applications\Database-Apps-Teamwork-Project (1)\SQL-Server-DBFirst-Model\Supermarket.Data\bin\Debug\EntityFramework.xml
+C:\Users\Daniela\Documents\PROGRAMMING\Level Back-end\Database Applications\Database-Apps-Teamwork-Project (1)\SQL-Server-DBFirst-Model\Supermarket.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Daniela\Documents\PROGRAMMING\Level Back-end\Database Applications\Database-Apps-Teamwork-Project (1)\SQL-Server-DBFirst-Model\Supermarket.Data\obj\Debug\Supermarket.Data.csprojResolveAssemblyReference.cache
+C:\Users\Daniela\Documents\PROGRAMMING\Level Back-end\Database Applications\Database-Apps-Teamwork-Project (1)\SQL-Server-DBFirst-Model\Supermarket.Data\obj\Debug\Supermarket.Data.dll
+C:\Users\Daniela\Documents\PROGRAMMING\Level Back-end\Database Applications\Database-Apps-Teamwork-Project (1)\SQL-Server-DBFirst-Model\Supermarket.Data\obj\Debug\Supermarket.Data.pdb
+C:\Users\Nick\Desktop\DB Apps\Database-Apps-Teamwork-Project\GitRep\DatabaseApplications-Teamwork\SQL-Server-DBFirst-Model\Supermarket.Data\bin\Debug\Supermarket.Data.dll.config
+C:\Users\Nick\Desktop\DB Apps\Database-Apps-Teamwork-Project\GitRep\DatabaseApplications-Teamwork\SQL-Server-DBFirst-Model\Supermarket.Data\bin\Debug\Supermarket.Data.dll
+C:\Users\Nick\Desktop\DB Apps\Database-Apps-Teamwork-Project\GitRep\DatabaseApplications-Teamwork\SQL-Server-DBFirst-Model\Supermarket.Data\bin\Debug\Supermarket.Data.pdb
+C:\Users\Nick\Desktop\DB Apps\Database-Apps-Teamwork-Project\GitRep\DatabaseApplications-Teamwork\SQL-Server-DBFirst-Model\Supermarket.Data\bin\Debug\EntityFramework.dll
+C:\Users\Nick\Desktop\DB Apps\Database-Apps-Teamwork-Project\GitRep\DatabaseApplications-Teamwork\SQL-Server-DBFirst-Model\Supermarket.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nick\Desktop\DB Apps\Database-Apps-Teamwork-Project\GitRep\DatabaseApplications-Teamwork\SQL-Server-DBFirst-Model\Supermarket.Data\bin\Debug\Supermarket.Models.dll
+C:\Users\Nick\Desktop\DB Apps\Database-Apps-Teamwork-Project\GitRep\DatabaseApplications-Teamwork\SQL-Server-DBFirst-Model\Supermarket.Data\bin\Debug\Supermarket.Models.pdb
+C:\Users\Nick\Desktop\DB Apps\Database-Apps-Teamwork-Project\GitRep\DatabaseApplications-Teamwork\SQL-Server-DBFirst-Model\Supermarket.Data\bin\Debug\EntityFramework.xml
+C:\Users\Nick\Desktop\DB Apps\Database-Apps-Teamwork-Project\GitRep\DatabaseApplications-Teamwork\SQL-Server-DBFirst-Model\Supermarket.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nick\Desktop\DB Apps\Database-Apps-Teamwork-Project\GitRep\DatabaseApplications-Teamwork\SQL-Server-DBFirst-Model\Supermarket.Data\obj\Debug\Supermarket.Data.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Desktop\DB Apps\Database-Apps-Teamwork-Project\GitRep\DatabaseApplications-Teamwork\SQL-Server-DBFirst-Model\Supermarket.Data\obj\Debug\Supermarket.Data.dll
+C:\Users\Nick\Desktop\DB Apps\Database-Apps-Teamwork-Project\GitRep\DatabaseApplications-Teamwork\SQL-Server-DBFirst-Model\Supermarket.Data\obj\Debug\Supermarket.Data.pdb
+C:\Users\mary\Documents\maria\softuni\DB applications\TeamWork Project\trunk\SQL-Server-DBFirst-Model\Supermarket.Data\bin\Debug\Supermarket.Data.dll.config
+C:\Users\mary\Documents\maria\softuni\DB applications\TeamWork Project\trunk\SQL-Server-DBFirst-Model\Supermarket.Data\bin\Debug\Supermarket.Data.dll
+C:\Users\mary\Documents\maria\softuni\DB applications\TeamWork Project\trunk\SQL-Server-DBFirst-Model\Supermarket.Data\bin\Debug\Supermarket.Data.pdb
+C:\Users\mary\Documents\maria\softuni\DB applications\TeamWork Project\trunk\SQL-Server-DBFirst-Model\Supermarket.Data\bin\Debug\EntityFramework.dll
+C:\Users\mary\Documents\maria\softuni\DB applications\TeamWork Project\trunk\SQL-Server-DBFirst-Model\Supermarket.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mary\Documents\maria\softuni\DB applications\TeamWork Project\trunk\SQL-Server-DBFirst-Model\Supermarket.Data\bin\Debug\Supermarket.Models.dll
+C:\Users\mary\Documents\maria\softuni\DB applications\TeamWork Project\trunk\SQL-Server-DBFirst-Model\Supermarket.Data\bin\Debug\Supermarket.Models.pdb
+C:\Users\mary\Documents\maria\softuni\DB applications\TeamWork Project\trunk\SQL-Server-DBFirst-Model\Supermarket.Data\bin\Debug\EntityFramework.xml
+C:\Users\mary\Documents\maria\softuni\DB applications\TeamWork Project\trunk\SQL-Server-DBFirst-Model\Supermarket.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mary\Documents\maria\softuni\DB applications\TeamWork Project\trunk\SQL-Server-DBFirst-Model\Supermarket.Data\obj\Debug\Supermarket.Data.csprojResolveAssemblyReference.cache
+C:\Users\mary\Documents\maria\softuni\DB applications\TeamWork Project\trunk\SQL-Server-DBFirst-Model\Supermarket.Data\obj\Debug\Supermarket.Data.dll
+C:\Users\mary\Documents\maria\softuni\DB applications\TeamWork Project\trunk\SQL-Server-DBFirst-Model\Supermarket.Data\obj\Debug\Supermarket.Data.pdb
+D:\softuni\3.DBApp\TEAM\SuperMarket\New folder\DatabaseApplications-Teamwork\SQL-Server-DBFirst-Model\Supermarket.Data\bin\Debug\Supermarket.Data.dll.config
+D:\softuni\3.DBApp\TEAM\SuperMarket\New folder\DatabaseApplications-Teamwork\SQL-Server-DBFirst-Model\Supermarket.Data\bin\Debug\Supermarket.Data.dll
+D:\softuni\3.DBApp\TEAM\SuperMarket\New folder\DatabaseApplications-Teamwork\SQL-Server-DBFirst-Model\Supermarket.Data\bin\Debug\Supermarket.Data.pdb
+D:\softuni\3.DBApp\TEAM\SuperMarket\New folder\DatabaseApplications-Teamwork\SQL-Server-DBFirst-Model\Supermarket.Data\bin\Debug\EntityFramework.dll
+D:\softuni\3.DBApp\TEAM\SuperMarket\New folder\DatabaseApplications-Teamwork\SQL-Server-DBFirst-Model\Supermarket.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\softuni\3.DBApp\TEAM\SuperMarket\New folder\DatabaseApplications-Teamwork\SQL-Server-DBFirst-Model\Supermarket.Data\bin\Debug\Supermarket.Models.dll
+D:\softuni\3.DBApp\TEAM\SuperMarket\New folder\DatabaseApplications-Teamwork\SQL-Server-DBFirst-Model\Supermarket.Data\bin\Debug\Supermarket.Models.pdb
+D:\softuni\3.DBApp\TEAM\SuperMarket\New folder\DatabaseApplications-Teamwork\SQL-Server-DBFirst-Model\Supermarket.Data\bin\Debug\EntityFramework.xml
+D:\softuni\3.DBApp\TEAM\SuperMarket\New folder\DatabaseApplications-Teamwork\SQL-Server-DBFirst-Model\Supermarket.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\softuni\3.DBApp\TEAM\SuperMarket\New folder\DatabaseApplications-Teamwork\SQL-Server-DBFirst-Model\Supermarket.Data\obj\Debug\Supermarket.Data.csprojResolveAssemblyReference.cache
+D:\softuni\3.DBApp\TEAM\SuperMarket\New folder\DatabaseApplications-Teamwork\SQL-Server-DBFirst-Model\Supermarket.Data\obj\Debug\Supermarket.Data.dll
+D:\softuni\3.DBApp\TEAM\SuperMarket\New folder\DatabaseApplications-Teamwork\SQL-Server-DBFirst-Model\Supermarket.Data\obj\Debug\Supermarket.Data.pdb
