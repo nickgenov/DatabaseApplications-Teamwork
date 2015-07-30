@@ -68,13 +68,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Supermarket.Data\Supermarket.Data.csproj">
-      <Project>{7994ab26-a289-4aa7-a05b-d9a3c08fccea}</Project>
-      <Name>Supermarket.Data</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\Supermarket.Models\Supermarket.Models.csproj">
-      <Project>{3737ce95-6b1e-40d6-92e9-0a19b5862441}</Project>
-      <Name>Supermarket.Models</Name>
+    <ProjectReference Include="..\MsSQLContext\MsSQLContext.csproj">
+      <Project>{1fce145f-bf3d-4e2a-83a9-9de37b27255a}</Project>
+      <Name>MsSQLContext</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

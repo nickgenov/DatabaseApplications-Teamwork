@@ -1,23 +1,17 @@
-﻿using Supermarket.Data;
-using Supermarket.Models;
-
-namespace DataToMySQL
+﻿namespace DataToMySQL
 {
     using System;
     using System.Collections.Generic;
-    using System.Linq;
-    using System.Text;
-    using System.Threading.Tasks;
     using MySql.Data.Entity;
     using System.Data.Entity;
-
     using MySql.Data.MySqlClient;
+    using MsSQLContext;
 
     public class ToMySqlTransfer
     {
         static void Main()
         {
-            var context = new SupermarketContext();
+            var context = new SupermarketMsSQLEntities();
             var measures = context.Measures;
             var categories = context.Categories;
             var customers = context.Customers;
@@ -32,38 +26,17 @@ namespace DataToMySQL
                 connection = new MySqlConnection(mySqlDataSource);
                 connection.Open();
 
-                //InsertMeasuresIntoDb(measures, connection);
+                InsertMeasuresIntoDb(measures, connection);
 
-                //InsertCategoriesIntoDb(categories, connection);
+                InsertCategoriesIntoDb(categories, connection);
 
-                //InsertCustomersIntoDb(customers, connection);
+                InsertCustomersIntoDb(customers, connection);
 
-                //InsertSuppliersIntoDb(suppliers, connection);
+                InsertSuppliersIntoDb(suppliers, connection);
 
-                //InsertProductsIntoDb(products, connection);
+                InsertProductsIntoDb(products, connection);
 
-                //InsertOrdersIntoDb(orders, connection);
-
-
-                //String cmdText = "INSERT INTO measures(name) VALUES(@name)";
-                //MySqlCommand cmd2 = new MySqlCommand(cmdText, connection);
-
-                //cmd2.Prepare();
-                //cmd2.Parameters.AddWithValue("@name", "345");
-                //cmd2.ExecuteNonQuery();
-
-
-                foreach (var measure in measures)
-                {
-                    Console.WriteLine(measure.Name);
-                    var insertQuery = "INSERT INTO measures (name) VALUES (@name)";
-                    MySqlCommand cmd = new MySqlCommand(insertQuery, connection);
-                    cmd.Prepare();
-                    cmd.Parameters.AddWithValue("@name", measure.Name);
-                    cmd.ExecuteNonQuery();
-                }
-
-
+                InsertOrdersIntoDb(orders, connection);
 
             }
 
@@ -78,38 +51,7 @@ namespace DataToMySQL
                     connection.Close(); //close the connection
                 }
             }
-        }
-        //public string ExportDataIntoMySql()
-        //{
-        //    var context = new SupermarketContext();
-        //    var measures = context.Measures;
-        //    var categories = context.Categories;
-        //    var customers = context.Customers;
-        //    var suppliers = context.Suppliers;
-        //    var products = context.Products;
-        //    var orders = context.Orders;
-
-        //    const string mySqlDataSource = @"server=localhost;database=supermarket;userid=root;";
-        //    var connection = new MySqlConnection(mySqlDataSource);
-        //    connection.Open();
-        //    using (connection)
-        //    {
-        //        InsertMeasuresIntoDb(measures, connection);
-
-        //        InsertCategoriesIntoDb(categories, connection);
-
-        //        InsertCustomersIntoDb(customers, connection);
-
-        //        InsertSuppliersIntoDb(suppliers, connection);
-
-        //        InsertProductsIntoDb(products, connection);
-
-        //        InsertOrdersIntoDb(orders, connection);
-
-        //    }
-
-        //    return "Data exporting into MySql: Done!";
-        //}
+        }        
 
         private static void InsertOrdersIntoDb(IDbSet<Order> orders, MySqlConnection connection)
         {
@@ -118,6 +60,7 @@ namespace DataToMySQL
                 var insertQuery =
                     "insert into orders (quantity, product_id, discount, customer_id, order_date) values (@quantity, @product_id, @discount, @customer_id, @order_date)";
                 var cmd = new MySqlCommand(insertQuery, connection);
+                cmd.Prepare();
                 cmd.Parameters.AddWithValue("@quantity", order.Quantity);
                 cmd.Parameters.AddWithValue("@product_id", order.ProductId);
                 cmd.Parameters.AddWithValue("@discount", order.Discount);
@@ -134,6 +77,7 @@ namespace DataToMySQL
                 var insertQuery =
                     "insert into products (name, price, supplier_id, category_id, measure_id) values (@name, @price, @supplier_id, @category_id, @measure_id)";
                 var cmd = new MySqlCommand(insertQuery, connection);
+                cmd.Prepare();
                 cmd.Parameters.AddWithValue("@name", product.Name);
                 cmd.Parameters.AddWithValue("@price", product.Price);
                 cmd.Parameters.AddWithValue("@supplier_id", product.SupplierId);
@@ -149,6 +93,7 @@ namespace DataToMySQL
             {
                 var insertQuery = "insert into suppliers (name, address, phone) values (@name, @address, @phone)";
                 var cmd = new MySqlCommand(insertQuery, connection);
+                cmd.Prepare();
                 cmd.Parameters.AddWithValue("@name", supplier.Name);
                 cmd.Parameters.AddWithValue("@address", supplier.Address);
                 cmd.Parameters.AddWithValue("@phone", supplier.Phone);
@@ -162,6 +107,7 @@ namespace DataToMySQL
             {
                 var insertQuery = "insert into customers (name, address, phone) values (@name, @address, @phone)";
                 var cmd = new MySqlCommand(insertQuery, connection);
+                cmd.Prepare();
                 cmd.Parameters.AddWithValue("@name", customer.Name);
                 cmd.Parameters.AddWithValue("@address", customer.Address);
                 cmd.Parameters.AddWithValue("@phone", customer.Phone);
@@ -175,14 +121,16 @@ namespace DataToMySQL
             {
                 var insertQuery = "insert into categories (name, description) values (@name, @description)";
                 var cmd = new MySqlCommand(insertQuery, connection);
+                cmd.Prepare();
                 cmd.Parameters.AddWithValue("@name", category.Name);
-                cmd.Parameters.AddWithValue("@supermarket", category.Description);
+                cmd.Parameters.AddWithValue("@description", category.Description);
                 cmd.ExecuteNonQuery();
             }
         }
 
         private static void InsertMeasuresIntoDb(IDbSet<Measure> measures, MySqlConnection connection)
         {
+
             foreach (var measure in measures)
             {
                 var insertQuery = "insert into measures (name) values (@name)";
