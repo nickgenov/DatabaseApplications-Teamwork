@@ -1,2 +1,0 @@
-D:\softuni\3.DBApp\TEAM\SuperMarket\New folder\DatabaseApplications-Teamwork\SQL-Server-DBFirst-Model\MySQLTransfer\bin\Debug\MySQLTransfer.exe.config
-D:\softuni\3.DBApp\TEAM\SuperMarket\New folder\DatabaseApplications-Teamwork\SQL-Server-DBFirst-Model\MySQLTransfer\obj\Debug\MySQLTransfer.csprojResolveAssemblyReference.cache
